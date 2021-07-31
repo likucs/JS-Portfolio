@@ -93,7 +93,7 @@ export default function footer() {
               alt="love"
             />
           </i>{" "}
-          By @CyberBoyAyush
+          By @likucs
         </div>
       </footer>
     </div>
