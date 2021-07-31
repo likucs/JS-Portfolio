@@ -7,8 +7,8 @@ import Footer from "../components/footer"
 export default function Home() {
 
 const description = "A developer with few Skills"
-const pageTitle = "CyberBoyAyush"
-const siteName = "CyberBoyAyush"
+const pageTitle = "likucs"
+const siteName = "likucs"
 
 
 
@@ -22,11 +22,11 @@ const siteName = "CyberBoyAyush"
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
-        <meta name="twitter:creator" content="@_CyberBoyAyush" key="twhandle" />
+        <meta name="twitter:creator" content="@_likucs" key="twhandle" />
         
 
         {/* Open Graph */}
-        <meta property="og:url" content="https://CyberBoyAyush.in/" key="ogurl" />
+        <meta property="og:url" content="https://likucs.in/" key="ogurl" />
         <meta property="og:image" content="https://github.com/aryanvikash.png" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
